@@ -1,35 +1,34 @@
-# PS Craft — PhotoCraft Online Editor
+# PSCraft — Free Online PSD Editor
 
-![PS Craft hero](assets/hero-poster.jpg)
+![PSCraft hero](assets/hero-poster.jpg)
 
-**Your image. Your next edit.**
+**Open your PSD. Keep what matters.**
 
 Free to use · no account · no install
 
-Independent site hosting the open-source PhotoCraft Web application. Files are processed on your device and are never uploaded; download your work before closing the workspace. Complex PSD/PSB documents can depend on fonts and effects — inspect your file and the exported result. Concept artwork illustrates the idea, not a guaranteed result.
+Independent tool hosting PhotoCraft 0.7.0. Your files are processed on this device and are never uploaded. Layered-file compatibility can vary with fonts, masks and effects — inspect the file and exported result yourself; no complete Photoshop compatibility is promised. Concept artwork illustrates the idea, not a guaranteed result.
 
 ## Links
 
 |  | URL |
 | --- | --- |
-| **App** | https://pscraftonline.com |
-| **This landing** | https://majiatools.github.io/pscraftonline/ |
+| **App** | https://pscraft.online |
+| **This landing** | https://majiatools.github.io/pscraft-online/ |
 
 ## What it does
 
-- **A full editor in your browser** — PS Craft hosts the open-source PhotoCraft Web app, nothing to install
-- **Layers and brushes** — build your edit from a working image, download a PSD working copy to return to the layers
-- **PSD and PSB support** — open layered documents; inspect your own file and the exported result first
-- **Export a finished PNG** when the edit is ready for sharing or delivery
-- **Your files stay with you** — the site has no image-upload or cloud-storage service
-- **Free**: opens without a subscription, payment or account
-- Not affiliated with Adobe, Photopea or the ArtCraft team
+- **Open PSD and PSB in the browser** — the workspace hosts PhotoCraft 0.7.0, no Photoshop or Adobe account needed
+- **Inspect before you edit** — check the document first; there is no upload form and no account requirement
+- **Edit layers** and keep editable work with File → Save As (download the PSD and check the saved copy)
+- **Export for delivery** with File → Export → Export As — a flat PNG for viewing, the PSD for future layer edits
+- **Files stay on your device** — processing happens locally in the browser; the site provides no image-upload service
+- **Free**: no fee, subscription or registration
 
 ## How to use
 
-1. Open https://pscraftonline.com and start the workspace
-2. Choose Open and select a working copy from your device
-3. Edit with layers and brushes, then File → Save As for a working PSD or File → Export → Export As for a PNG
+1. Open https://pscraft.online (the first visit downloads the editor)
+2. Inside the workspace choose File → Open and select a PSD from your device
+3. Edit layers, then File → Save As for a working PSD or File → Export → Export As for a PNG
 
 ## License
 
